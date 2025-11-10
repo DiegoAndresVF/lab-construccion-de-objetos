@@ -8,7 +8,7 @@ function Mail() {
       console.log(this.subject + ": " + this.message);
   };
 }
- 
+
 // Type your code above this line!
 
 const newMail = new Mail("hello", "world");
